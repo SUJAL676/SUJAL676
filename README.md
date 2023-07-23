@@ -1,3 +1,6 @@
+<h1 align="center"><b>Hi , I'm Sujal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
 # 💫 About Me:
 👨🏻‍💻 Skilled Flutter developer with a passion for crafting impactful applications.<br>💡Embracing challenges as opportunities for continuous growth and innovation.<br>🤝Committed to staying up-to-date with the latest industry trends and cutting-edge technologies.<br>✍🏻Dedicated to creating seamless user experiences through a holistic approach.<br>🚀Seeking opportunities to collaborate and make a difference in the world of app development.
 
